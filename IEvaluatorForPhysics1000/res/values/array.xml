@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="difficulty_Name">
+    <item>Easy</item>
+    <item>Medium</item>
+    <item>Difficult</item>
+    <item>All</item>
+    </string-array>
+    
+    <string-array name="difficulty_values">
+      <item>1</item>
+      <item>2</item>
+      <item>3</item>
+       <item>0</item>
+    </string-array>
+    
+    <string-array name="topic_Name">
+    <item>All</item>
+    <item>Atom and Radioactivity</item>
+    <item>Charge</item>
+    <item>Electricity</item>
+    <item>Electricity1</item>
+    <item>Energy transfer and efficiency</item>
+    <item>Gravity and space</item>
+    <item>Motion</item>
+    <item>Using and generating electricity</item>
+    <item>Waves</item>
+    <item>Work, energy and power</item>
+   
+ </string-array>
+    
+    <string-array name="topic_values">
+    <item>0</item>
+     <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+   
+    </string-array>
+    
+    
+    <string-array name="typeofquestion_Name">
+    <item>All</item>
+    <item>Descriptive Type</item>
+    <item>Multiple Choice Single Answer</item>
+    <item>Multiple Choice Multiple Answer</item>
+    <item>True or False</item>
+    <item>Yes or No</item>
+    <item>Fill the blanks</item>
+    
+    </string-array>
+    
+    <string-array name="typeofquestion_values">
+    <item>0</item>
+     <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    
+    
+    </string-array>
+    
+   
+</resources>
